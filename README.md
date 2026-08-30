@@ -21,6 +21,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Concepts Used:** Precision grid construction, relative coordinate offsets, text placement with 90° rotation angles, vertical annotation alignment, and ISO linear dimensioning (`DIMLINEAR`).
   * **Folder:** `Day03-Table/`
 
+* **Parabola Construction via Tangent Method**
+  * **Description:** A precise geometric construction of a parabolic curve using the tangent envelope (oblique rectangle) method within a 160 mm × 240 mm bounding rectangle.
+  * **Concepts Used:** Envelope method, proportional line division into equal segments, point-to-point tangent line intersection, smooth spline/curve fitting through tangent envelope points, and standard structural dimensioning.
+  * **Folder:** `Day04-parabola-tangent-method/`
 ---
 
 ## 🛠️ Skills Covered
