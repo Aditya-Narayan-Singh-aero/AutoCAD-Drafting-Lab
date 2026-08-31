@@ -25,6 +25,11 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** A precise geometric construction of a parabolic curve using the tangent envelope (oblique rectangle) method within a 160 mm × 240 mm bounding rectangle.
   * **Concepts Used:** Envelope method, proportional line division into equal segments, point-to-point tangent line intersection, smooth spline/curve fitting through tangent envelope points, and standard structural dimensioning.
   * **Folder:** `Day04-parabola-tangent-method/`
+ 
+  * * **Ellipse Construction via Concentric Circles Method**
+  * **Description:** A precise geometric construction of a vertical ellipse generated using two concentric guide circles corresponding to the major and minor axes.
+  * **Concepts Used:** Concentric circle generation (350 mm major axis, 200 mm minor axis), equal angular division into 12 radial sectors (30° increments), projection line mapping (horizontal intersections from the inner circle, vertical intersections from the outer circle), smooth spline curve fitting through point loci, and standard radial/diameter dimensioning (`DIMDIAMETER`).
+  * **Folder:** `Day05-Ellipse-Concentric-Circles-Method/`
 ---
 
 ## 🛠️ Skills Covered
