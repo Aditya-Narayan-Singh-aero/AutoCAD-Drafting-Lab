@@ -41,6 +41,11 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Concepts Used:** Generating circle division into 8 equal angular sectors (45° increments), base line division equal to the circumference ($\pi D$), locus point tracking using center-line projections, arc-intersection point mapping, smooth spline fitting (`SPLINE`), and standard geometric dimensioning.
   * **Folder:** `Day07-Cycloid-Rolling-Circle-Method/`
 
+* **Orthographic Projection of Points across Four Quadrants**
+  * **Description:** A consolidated orthographic projection layout displaying four distinct point positions across all four spatial quadrants on a common reference line ($XY$) with 50 mm projector spacing.
+  * **Concepts Used:** Reference axis construction ($XY$ line), spatial quadrant rules (HP/VP alignment), elevation (front view) vs. plan (top view) projection mapping, 1st/2nd/3rd/4th quadrant notation standards, dashed projection line mapping, and linear dimensioning.
+  * **Folder:** `Day08-Orthographic-Projection-Points/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -57,6 +62,7 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * Dimensioning Standards & Radial/Linear Annotation Scales
 * Involute Curve Generation & Extension-Ray Geometry
 * Cycloidal Curve Generation & Rolling Circle Kinematics
+* Orthographic Point Projections & Spatial Quadrant Analysis
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
