@@ -46,6 +46,11 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Concepts Used:** Reference axis construction ($XY$ line), spatial quadrant rules (HP/VP alignment), elevation (front view) vs. plan (top view) projection mapping, 1st/2nd/3rd/4th quadrant notation standards, dashed projection line mapping, and linear dimensioning.
   * **Folder:** `Day08-Orthographic-Projection-Points/`
 
+* **Line Inclined to HP and Parallel to VP**
+  * **Description:** Orthographic projection of a 95 mm straight line ($AB$) with end $A$ localized in space and the body inclined at 35° to the Horizontal Plane while staying parallel to the Vertical Plane.
+  * **Concepts Used:** Front elevation true length drawing ($a'b'$ at 35° inclination), top plan view projection parallel to $XY$ ($ab$), projector line alignment, elevation height and plan distance dimensioning, and angular annotations (`DIMANGULAR`).
+  * **Folder:** `Day09-Line-Inclined-HP-Parallel-VP/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -63,6 +68,7 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * Involute Curve Generation & Extension-Ray Geometry
 * Cycloidal Curve Generation & Rolling Circle Kinematics
 * Orthographic Point Projections & Spatial Quadrant Analysis
+* True Length & Angular Line Projections (HP/VP Inclinations)
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
