@@ -51,6 +51,11 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Concepts Used:** Front elevation true length drawing ($a'b'$ at 35° inclination), top plan view projection parallel to $XY$ ($ab$), projector line alignment, elevation height and plan distance dimensioning, and angular annotations (`DIMANGULAR`).
   * **Folder:** `Day09-Line-Inclined-HP-Parallel-VP/`
 
+* **Line Inclined to VP and Parallel to HP (True Length Determination)**
+  * **Description:** Orthographic projection of line $RS$ inclined at 50° to VP and parallel to HP with a fixed end-projector distance of 75 mm, including CAD graphical measurement of the actual true length.
+  * **Concepts Used:** Projector spacing constraint (75 mm offset), plan view true length construction ($rs$ at 50° inclination), front view parallel projection ($r's'$ parallel to $XY$), geometric alignment verification, CAD measurement tools (`DIST`), and parametric dimensioning.
+  * **Folder:** `Day10-Line-Inclined-VP-Parallel-HP/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -69,6 +74,7 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * Cycloidal Curve Generation & Rolling Circle Kinematics
 * Orthographic Point Projections & Spatial Quadrant Analysis
 * True Length & Angular Line Projections (HP/VP Inclinations)
+* Fixed Projector Constraint Solvers & Graphical True-Length Calculation
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
