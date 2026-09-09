@@ -56,6 +56,11 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Concepts Used:** Projector spacing constraint (75 mm offset), plan view true length construction ($rs$ at 50° inclination), front view parallel projection ($r's'$ parallel to $XY$), geometric alignment verification, CAD measurement tools (`DIST`), and parametric dimensioning.
   * **Folder:** `Day10-Line-Inclined-VP-Parallel-HP/`
 
+* **Pentagonal Plate Inclined to HP & Perpendicular to VP**
+  * **Description:** Projection of a regular 90 mm pentagonal plate resting with one side on HP, its surface tilted at 40° to HP and perpendicular to VP, modeled using two-stage auxiliary projection steps.
+  * **Concepts Used:** Simple initial position modeling (true shape in top view, line view in front view on $XY$), rotation transformation of the front elevation line view to 40°, vertical projector alignment to map foreshortened top plan view, edge-on plane representation, and surface angle dimensioning.
+  * **Folder:** `Day11-Pentagonal-Plate-Inclined-HP/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -75,6 +80,8 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * Orthographic Point Projections & Spatial Quadrant Analysis
 * True Length & Angular Line Projections (HP/VP Inclinations)
 * Fixed Projector Constraint Solvers & Graphical True-Length Calculation
+* Planar Surface Projections & Two-Stage Auxiliary View Rotations
+* Foreshortened Polygon View Mapping via Vertical Projectors
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
