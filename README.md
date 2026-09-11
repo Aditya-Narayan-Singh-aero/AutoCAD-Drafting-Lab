@@ -1,4 +1,4 @@
-# 2D Technical Drafting & Geometric Construction
+﻿# 2D Technical Drafting & Geometric Construction
 
 Welcome to my repository for computer-aided drafting and technical graphics! This repository tracks my progression as I build a strong foundation in 2D CAD drafting fundamentals using Autodesk AutoCAD, tailored for mechanical and aerospace engineering applications.
 
@@ -61,6 +61,11 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Concepts Used:** Simple initial position modeling (true shape in top view, line view in front view on $XY$), rotation transformation of the front elevation line view to 40°, vertical projector alignment to map foreshortened top plan view, edge-on plane representation, and surface angle dimensioning.
   * **Folder:** `Day11-Pentagonal-Plate-Inclined-HP/`
 
+* **Circular Plate Inclined to VP & Perpendicular to HP**
+  * **Description:** Projection of a 150 mm diameter circular plate resting on HP on a point on its circumference, with its surface inclined at 50° to VP and perpendicular to HP, constructed via 12-point generators.
+  * **Concepts Used:** Initial position modeling (true circular shape in front elevation, line view in plan view), 12-segment generator division (30° radial lines), top plan line view rotation to 50° to $XY$, horizontal/vertical projector intersection tracking, ellipse generation via spline curve fitting through point loci (`SPLINE`), and diameter dimensioning (`DIMDIAMETER`).
+  * **Folder:** `Day12-Circular-Plate-Inclined-VP/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -82,6 +87,7 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * Fixed Projector Constraint Solvers & Graphical True-Length Calculation
 * Planar Surface Projections & Two-Stage Auxiliary View Rotations
 * Foreshortened Polygon View Mapping via Vertical Projectors
+* Generator Line Systems for Complex Curved Geometry Projections
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
