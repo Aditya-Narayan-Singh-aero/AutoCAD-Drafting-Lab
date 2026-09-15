@@ -66,6 +66,11 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Concepts Used:** Initial position modeling (true circular shape in front elevation, line view in plan view), 12-segment generator division (30° radial lines), top plan line view rotation to 50° to $XY$, horizontal/vertical projector intersection tracking, ellipse generation via spline curve fitting through point loci (`SPLINE`), and diameter dimensioning (`DIMDIAMETER`).
   * **Folder:** `Day12-Circular-Plate-Inclined-VP/`
 
+* **Line AB Inclined to Both Reference Planes**
+  * **Description:** Orthographic projections of a 95 mm line with end A 60 mm above HP and 70 mm in front of VP, inclined at 35° to HP and 40° to VP.
+  * **Coursework Question:** A line AB, of length 95 mm long has its end A in 60 mm above HP and 70 mm in front of VP. The line is kept 35° to HP and 40° to VP. Draw its projections.
+  * **Folder:** `Day13-Line-AB-Inclined-Both-Planes/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -88,6 +93,7 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * Planar Surface Projections & Two-Stage Auxiliary View Rotations
 * Foreshortened Polygon View Mapping via Vertical Projectors
 * Generator Line Systems for Complex Curved Geometry Projections
+* Orthographic Projection of Lines Inclined to HP and VP
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
