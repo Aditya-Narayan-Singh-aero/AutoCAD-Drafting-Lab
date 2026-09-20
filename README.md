@@ -81,6 +81,11 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Coursework Question:** A line RS 120 mm long has its end R 45 mm above HP and 55 mm in front of VP. The line is inclined at 35° to HP and 55° to VP. Draw its projections.
   * **Folder:** `Day15-Line-RS-Complementary-Angles/`
 
+* **Line MN from Given Apparent Lengths**
+  * **Description:** Orthographic projections of a 70 mm line with end M 35 mm above HP and 30 mm in front of VP, constructed from its 45 mm top-view length and 60 mm front-view length.
+  * **Coursework Question:** A line MN 70 mm long, has its end M 35 above HP and 30 mm in front of VP. The top view and front view have a length of 45 mm and 60 mm respectively. Draw its projections.
+  * **Folder:** `Day16-Line-MN-Given-Apparent-Lengths/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -105,6 +110,7 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * Generator Line Systems for Complex Curved Geometry Projections
 * Orthographic Projection of Lines Inclined to HP and VP
 * True Inclination Determination from Apparent Views
+* Projection Construction from Given Top and Front View Lengths
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
