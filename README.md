@@ -76,6 +76,11 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Coursework Question:** One end P of the line PQ, 105 mm long is 50 mm above HP and 60 mm in front of VP. The line is inclined at 30° to HP and the top view makes 45° with VP. Draw the projections of the line and find the true inclinations with the vertical plane.
   * **Folder:** `Day14-Line-PQ-Find-True-Inclination-VP/`
 
+* **Line MN from Given Apparent Lengths**
+  * **Description:** Orthographic projections of a 70 mm line with end M 35 mm above HP and 30 mm in front of VP, constructed from its 45 mm top-view length and 60 mm front-view length.
+  * **Coursework Question:** A line MN 70 mm long, has its end M 35 above HP and 30 mm in front of VP. The top view and front view have a length of 45 mm and 60 mm respectively. Draw its projections.
+  * **Folder:** `Day16-Line-MN-Given-Apparent-Lengths/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -100,6 +105,7 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * Generator Line Systems for Complex Curved Geometry Projections
 * Orthographic Projection of Lines Inclined to HP and VP
 * True Inclination Determination from Apparent Views
+* Projection Construction from Given Top and Front View Lengths
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
