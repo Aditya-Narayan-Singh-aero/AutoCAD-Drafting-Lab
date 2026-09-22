@@ -86,6 +86,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Coursework Question:** A line MN 70 mm long, has its end M 35 above HP and 30 mm in front of VP. The top view and front view have a length of 45 mm and 60 mm respectively. Draw its projections.
   * **Folder:** `Day16-Line-MN-Given-Apparent-Lengths/`
 
+* **Pentagonal Pyramid with Triangular Face on HP**
+  * **Description:** Orthographic projection study of a pentagonal pyramid positioned with a triangular face on the Horizontal Plane.
+  * **Folder:** `Day17-Pentagonal-Pyramid-Triangular-Face-HP/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -111,6 +115,7 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * Orthographic Projection of Lines Inclined to HP and VP
 * True Inclination Determination from Apparent Views
 * Projection Construction from Given Top and Front View Lengths
+* Solid Geometry Projections for Pyramids, Prisms, and Cones
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
