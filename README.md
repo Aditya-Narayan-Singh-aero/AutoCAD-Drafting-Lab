@@ -90,6 +90,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Orthographic projection study of a pentagonal pyramid positioned with a triangular face on the Horizontal Plane.
   * **Folder:** `Day17-Pentagonal-Pyramid-Triangular-Face-HP/`
 
+* **Hexagonal Prism with Axis Inclined to HP**
+  * **Description:** Orthographic projection of a hexagonal prism with its axis inclined at 40° to HP.
+  * **Folder:** `Day18-Hexagonal-Prism-Axis-40deg-HP/`
+
 ---
 
 ## 🛠️ Skills Covered
