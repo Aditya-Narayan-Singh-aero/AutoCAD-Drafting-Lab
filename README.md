@@ -94,6 +94,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Orthographic projection of a hexagonal prism with its axis inclined at 40° to HP.
   * **Folder:** `Day18-Hexagonal-Prism-Axis-40deg-HP/`
 
+* **Cone with Circumference Point Inclined to VP**
+  * **Description:** Orthographic projection of a cone resting on a point of its circumference with the axis or surface construction inclined at 50° to VP.
+  * **Folder:** `Day19-Cone-Circumference-Point-50deg-VP/`
+
 ---
 
 ## 🛠️ Skills Covered
