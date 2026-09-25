@@ -98,6 +98,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Orthographic projection of a cone resting on a point of its circumference with the axis or surface construction inclined at 50° to VP.
   * **Folder:** `Day19-Cone-Circumference-Point-50deg-VP/`
 
+* **Orthographic Slotted Ribbed Block**
+  * **Description:** Orthographic projection of a slotted, ribbed engineering block developed from supplied front and top reference views.
+  * **Folder:** `Day20-Orthographic-Slotted-Ribbed-Block/`
+
 ---
 
 ## 🛠️ Skills Covered
