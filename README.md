@@ -102,6 +102,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Orthographic projection of a slotted, ribbed engineering block developed from supplied front and top reference views.
   * **Folder:** `Day20-Orthographic-Slotted-Ribbed-Block/`
 
+* **Orthographic Stepped E-Block**
+  * **Description:** Orthographic projection of a stepped E-shaped engineering block developed from supplied front and top reference views.
+  * **Folder:** `Day21-Orthographic-Stepped-E-Block/`
+
 ---
 
 ## 🛠️ Skills Covered
