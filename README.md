@@ -106,6 +106,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Orthographic projection of a stepped E-shaped engineering block developed from supplied front and top reference views.
   * **Folder:** `Day21-Orthographic-Stepped-E-Block/`
 
+* **Cone Sectioned by Plane Inclined to HP**
+  * **Description:** Sectional projection of a 300 mm diameter, 400 mm axis cone cut by a plane perpendicular to VP and inclined at 50° to HP, including the true section shape.
+  * **Folder:** `Day22-Cone-Section-Plane-50deg-HP/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -132,6 +136,7 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * True Inclination Determination from Apparent Views
 * Projection Construction from Given Top and Front View Lengths
 * Solid Geometry Projections for Pyramids, Prisms, and Cones
+* Sectional Views and True-Shape Development of Solids
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
