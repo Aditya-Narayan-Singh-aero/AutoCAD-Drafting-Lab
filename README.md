@@ -110,6 +110,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Sectional projection of a 300 mm diameter, 400 mm axis cone cut by a plane perpendicular to VP and inclined at 50° to HP, including the true section shape.
   * **Folder:** `Day22-Cone-Section-Plane-50deg-HP/`
 
+* **Cylinder Sectioned by Plane Inclined to HP**
+  * **Description:** Sectional projection of a 500 mm diameter, 600 mm high cylinder cut by a plane perpendicular to VP and inclined at 45° to HP, including the sectional plan and true shape.
+  * **Folder:** `Day23-Cylinder-Section-Plane-45deg-HP/`
+
 ---
 
 ## 🛠️ Skills Covered
