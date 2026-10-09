@@ -114,6 +114,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Sectional projection of a 500 mm diameter, 600 mm high cylinder cut by a plane perpendicular to VP and inclined at 45° to HP, including the sectional plan and true shape.
   * **Folder:** `Day23-Cylinder-Section-Plane-45deg-HP/`
 
+* **Hexagonal Pyramid Sectioned by Plane Inclined to HP**
+  * **Description:** Sectional projection of a hexagonal pyramid with 180 mm base side and 360 mm altitude, cut by a 35° plane perpendicular to VP through the axis midpoint.
+  * **Folder:** `Day24-Hexagonal-Pyramid-Section-35deg-HP/`
+
 ---
 
 ## 🛠️ Skills Covered
