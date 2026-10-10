@@ -118,6 +118,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Sectional projection of a hexagonal pyramid with 180 mm base side and 360 mm altitude, cut by a 35° plane perpendicular to VP through the axis midpoint.
   * **Folder:** `Day24-Hexagonal-Pyramid-Section-35deg-HP/`
 
+* **Pentagonal Prism Sectioned by Plane Inclined to VP**
+  * **Description:** Sectional projection of a pentagonal prism with 160 mm base side and 300 mm axis, cut by a plane inclined at 40° to VP and perpendicular to HP.
+  * **Folder:** `Day25-Pentagonal-Prism-Section-40deg-VP/`
+
 ---
 
 ## 🛠️ Skills Covered
