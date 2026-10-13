@@ -122,6 +122,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Sectional projection of a pentagonal prism with 160 mm base side and 300 mm axis, cut by a plane inclined at 40° to VP and perpendicular to HP.
   * **Folder:** `Day25-Pentagonal-Prism-Section-40deg-VP/`
 
+* **Cone with Base Point on VP and Axis Inclined**
+  * **Description:** Projections of a 150 mm base, 200 mm axis cone touching VP at a base-circle point, with its axis inclined 30° to VP and its front-view axis inclined 45° to HP.
+  * **Folder:** `Day26-Cone-Base-Point-on-VP-Axis-Inclined-30deg-VP/`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -149,6 +153,7 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * Projection Construction from Given Top and Front View Lengths
 * Solid Geometry Projections for Pyramids, Prisms, and Cones
 * Sectional Views and True-Shape Development of Solids
+* Auxiliary Projections of Inclined Solids
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
