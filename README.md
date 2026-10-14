@@ -126,6 +126,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Projections of a 150 mm base, 200 mm axis cone touching VP at a base-circle point, with its axis inclined 30° to VP and its front-view axis inclined 45° to HP.
   * **Folder:** `Day26-Cone-Base-Point-on-VP-Axis-Inclined-30deg-VP/`
 
+* **Hexagonal Pyramid Resting on Triangular Face on VP**
+  * **Description:** Projections of a 120 mm-side, 250 mm-axis hexagonal pyramid resting on VP on a triangular face, with the front-view axis at 40° to HP.
+  * **Folder:** `Day27-Hexagonal-Pyramid-Triangular-Face-on-VP/`
+
 ---
 
 ## 🛠️ Skills Covered
