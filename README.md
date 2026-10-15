@@ -134,26 +134,6 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Projections of a 150 mm-side, 300 mm-axis pentagonal prism resting on HP, with its axis at 45° to HP and its axial plane at 35° to VP.
   * **Folder:** `Day28-Pentagonal-Prism-Axis-Inclined-45deg-HP/`
 
-* **Pentagonal Prism with Inclined Axis**
-  * **Description:** Projections of a 150 mm-side, 300 mm-axis pentagonal prism resting on HP, with its axis at 45° to HP and its axial plane at 35° to VP.
-  * **Folder:** `Day28-Pentagonal-Prism-Axis-Inclined-45deg-HP/`
-
-* **Square Pyramid Resting on Triangular Face on HP**
-  * **Description:** Projections of a 200 mm-side, 350 mm-axis square pyramid resting on HP on a triangular face, with its top-view axis at 45° to XY and apex toward VP.
-  * **Folder:** `Day29-Square-Pyramid-Triangular-Face-on-HP/`
-
-* **Development of Sectioned Hexagonal Prism**
-  * **Description:** Development of the remaining portion of a 150 mm-side, 300 mm-axis hexagonal prism sectioned by a plane inclined 35° to HP.
-  * **Folder:** `Day30-Development-Hexagonal-Prism-Sectioned-35deg-HP/`
-
-* **Development of Sectioned Cylinder**
-  * **Description:** Development of the lower portion of a 550 mm-diameter, 720 mm-axis cylinder sectioned by a plane inclined 40° to HP.
-  * **Folder:** `Day31-Development-Cylinder-Lower-Portion-Sectioned-40deg-HP/`
-
-* **Development of Sectioned Pentagonal Pyramid**
-  * **Description:** Development of the remaining portion of a 140 mm-side, 250 mm-axis pentagonal pyramid sectioned by a plane parallel to HP.
-  * **Folder:** `Day32-Development-Pentagonal-Pyramid-Sectioned-Parallel-HP/`
-
 ---
 
 ## 🛠️ Skills Covered
@@ -182,7 +162,6 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
 * Solid Geometry Projections for Pyramids, Prisms, and Cones
 * Sectional Views and True-Shape Development of Solids
 * Auxiliary Projections of Inclined Solids
-* Surface Development of Prisms, Cylinders, and Pyramids
 * CAD File Exporting & Multi-Format Management (.dwg, .dxf, .pdf, .png)
 
 ---
