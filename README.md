@@ -134,6 +134,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Projections of a 150 mm-side, 300 mm-axis pentagonal prism resting on HP, with its axis at 45° to HP and its axial plane at 35° to VP.
   * **Folder:** `Day28-Pentagonal-Prism-Axis-Inclined-45deg-HP/`
 
+* **Square Pyramid Resting on Triangular Face on HP**
+  * **Description:** Projections of a 200 mm-side, 350 mm-axis square pyramid resting on HP on a triangular face, with its top-view axis at 45° to XY and apex toward VP.
+  * **Folder:** `Day29-Square-Pyramid-Triangular-Face-on-HP/`
+
 ---
 
 ## 🛠️ Skills Covered
