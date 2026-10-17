@@ -138,6 +138,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Projections of a 200 mm-side, 350 mm-axis square pyramid resting on HP on a triangular face, with its top-view axis at 45° to XY and apex toward VP.
   * **Folder:** `Day29-Square-Pyramid-Triangular-Face-on-HP/`
 
+* **Development of Sectioned Hexagonal Prism**
+  * **Description:** Development of the remaining portion of a 150 mm-side, 300 mm-axis hexagonal prism sectioned by a plane inclined 35° to HP.
+  * **Folder:** `Day30-Development-Hexagonal-Prism-Sectioned-35deg-HP/`
+
 ---
 
 ## 🛠️ Skills Covered
