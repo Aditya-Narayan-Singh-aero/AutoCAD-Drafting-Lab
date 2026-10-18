@@ -142,6 +142,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Development of the remaining portion of a 150 mm-side, 300 mm-axis hexagonal prism sectioned by a plane inclined 35° to HP.
   * **Folder:** `Day30-Development-Hexagonal-Prism-Sectioned-35deg-HP/`
 
+* **Development of Sectioned Cylinder**
+  * **Description:** Development of the lower portion of a 550 mm-diameter, 720 mm-axis cylinder sectioned by a plane inclined 40° to HP.
+  * **Folder:** `Day31-Development-Cylinder-Lower-Portion-Sectioned-40deg-HP/`
+
 ---
 
 ## 🛠️ Skills Covered
