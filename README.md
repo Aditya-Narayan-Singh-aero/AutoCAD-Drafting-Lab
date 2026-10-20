@@ -146,6 +146,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Development of the lower portion of a 550 mm-diameter, 720 mm-axis cylinder sectioned by a plane inclined 40° to HP.
   * **Folder:** `Day31-Development-Cylinder-Lower-Portion-Sectioned-40deg-HP/`
 
+* **Development of Sectioned Pentagonal Pyramid**
+  * **Description:** Development of the remaining portion of a 140 mm-side, 250 mm-axis pentagonal pyramid sectioned by a plane parallel to HP.
+  * **Folder:** `Day32-Development-Pentagonal-Pyramid-Sectioned-Parallel-HP/`
+
 ---
 
 ## 🛠️ Skills Covered
