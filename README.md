@@ -150,6 +150,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Development of the remaining portion of a 140 mm-side, 250 mm-axis pentagonal pyramid sectioned by a plane parallel to HP.
   * **Folder:** `Day32-Development-Pentagonal-Pyramid-Sectioned-Parallel-HP/`
 
+* **Cone-Cylinder Intersection Curves**
+  * **Description:** Plan and elevation intersection curves for a horizontal cylinder penetrating a right circular cone with perpendicular intersecting axes.
+  * **Folder:** `Day33-Cone-Cylinder-Intersection-Curves/`
+
 ---
 
 ## 🛠️ Skills Covered
