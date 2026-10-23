@@ -154,6 +154,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Plan and elevation intersection curves for a horizontal cylinder penetrating a right circular cone with perpendicular intersecting axes.
   * **Folder:** `Day33-Cone-Cylinder-Intersection-Curves/`
 
+* **Vertical and Inclined Cylinder Intersection Curves**
+  * **Description:** Intersection curves for a vertical cylinder penetrated by a cylinder inclined at 30° to HP and parallel to VP.
+  * **Folder:** `Day34-Vertical-Inclined-Cylinder-Intersection-Curves/`
+
 ---
 
 ## 🛠️ Skills Covered
