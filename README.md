@@ -158,6 +158,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Intersection curves for a vertical cylinder penetrated by a cylinder inclined at 30° to HP and parallel to VP.
   * **Folder:** `Day34-Vertical-Inclined-Cylinder-Intersection-Curves/`
 
+* **Square Pyramid Perspective View on GP**
+  * **Description:** Perspective view of a square pyramid with a 30 mm base and 45 mm apex height resting on GP.
+  * **Folder:** `Day35-Square-Pyramid-Perspective-View-on-GP/`
+
 ---
 
 ## 🛠️ Skills Covered
