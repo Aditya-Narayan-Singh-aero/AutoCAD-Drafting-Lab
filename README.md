@@ -162,6 +162,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Perspective view of a square pyramid with a 30 mm base and 45 mm apex height resting on GP.
   * **Folder:** `Day35-Square-Pyramid-Perspective-View-on-GP/`
 
+* **Square Prism Perspective View on GP**
+  * **Description:** Perspective view of a square prism with a 50 mm square base and 70 mm height resting on GP.
+  * **Folder:** `Day36-Square-Prism-Perspective-View-on-GP/`
+
 ---
 
 ## 🛠️ Skills Covered
