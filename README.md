@@ -166,6 +166,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Perspective view of a square prism with a 50 mm square base and 70 mm height resting on GP.
   * **Folder:** `Day36-Square-Prism-Perspective-View-on-GP/`
 
+* **Isometric Slotted Bracket with Cylindrical Hole**
+  * **Description:** Isometric technical view of a slotted bracket with semicircular cutouts and a central cylindrical boss with a through-hole.
+  * **Folder:** `Day37-Isometric-Slotted-Bracket-Cylindrical-Hole/`
+
 ---
 
 ## 🛠️ Skills Covered
