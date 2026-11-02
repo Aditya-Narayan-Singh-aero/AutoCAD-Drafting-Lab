@@ -170,6 +170,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Isometric technical view of a slotted bracket with semicircular cutouts and a central cylindrical boss with a through-hole.
   * **Folder:** `Day37-Isometric-Slotted-Bracket-Cylindrical-Hole/`
 
+* **Isometric Stepped Block with Semicircular Cutouts**
+  * **Description:** Isometric technical view of a stepped block with lower and upper semicircular cutouts.
+  * **Folder:** `Day38-Isometric-Stepped-Block-Semicircular-Cutouts/`
+
 ---
 
 ## 🛠️ Skills Covered
