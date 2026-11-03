@@ -174,6 +174,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Isometric technical view of a stepped block with lower and upper semicircular cutouts.
   * **Folder:** `Day38-Isometric-Stepped-Block-Semicircular-Cutouts/`
 
+* **Isometric Angle Ribbed Bracket**
+  * **Description:** Isometric technical view of an angle-ribbed bracket with a base plate, central hole, back wall, and inclined triangular rib.
+  * **Folder:** `Day39-Isometric-Angle-Ribbed-Bracket/`
+
 ---
 
 ## 🛠️ Skills Covered
