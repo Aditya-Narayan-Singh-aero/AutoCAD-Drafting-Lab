@@ -178,6 +178,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Isometric technical view of an angle-ribbed bracket with a base plate, central hole, back wall, and inclined triangular rib.
   * **Folder:** `Day39-Isometric-Angle-Ribbed-Bracket/`
 
+* **Isometric Base Support U-Shaped Guide**
+  * **Description:** Isometric technical view of a base support block with a bottom notch, cylindrical neck, and U-shaped guide.
+  * **Folder:** `Day40-Isometric-Base-Support-USHaped-Guide/`
+
 ---
 
 ## 🛠️ Skills Covered
