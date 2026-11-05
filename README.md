@@ -182,6 +182,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Isometric technical view of a base support block with a bottom notch, cylindrical neck, and U-shaped guide.
   * **Folder:** `Day40-Isometric-Base-Support-USHaped-Guide/`
 
+* **3D Primitive Mounting Block**
+  * **Description:** 3D mounting block created using primitives with orthographic and SW isometric views.
+  * **Folder:** `Day41-3D-Primitive-Mounting-Block/`
+
 ---
 
 ## 🛠️ Skills Covered
