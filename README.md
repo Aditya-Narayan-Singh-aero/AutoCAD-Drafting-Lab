@@ -186,6 +186,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** 3D mounting block created using primitives with orthographic and SW isometric views.
   * **Folder:** `Day41-3D-Primitive-Mounting-Block/`
 
+* **Feature-Based Clevis Bracket**
+  * **Description:** Feature-based 3D clevis bracket with hub, bore, keyway, fork arms, and pin holes.
+  * **Folder:** `Day42-Feature-Based-Clevis-Bracket/`
+
 ---
 
 ## 🛠️ Skills Covered
