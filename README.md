@@ -190,6 +190,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Feature-based 3D clevis bracket with hub, bore, keyway, fork arms, and pin holes.
   * **Folder:** `Day42-Feature-Based-Clevis-Bracket/`
 
+* **Sweep Tubular Frame Chair**
+  * **Description:** Tubular frame chair modeled with SWEEP, including swept seat and backrest elements.
+  * **Folder:** `Day43-Sweep-Tubular-Frame-Chair/`
+
 ---
 
 ## 🛠️ Skills Covered
