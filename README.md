@@ -194,6 +194,10 @@ Welcome to my repository for computer-aided drafting and technical graphics! Thi
   * **Description:** Tubular frame chair modeled with SWEEP, including swept seat and backrest elements.
   * **Folder:** `Day43-Sweep-Tubular-Frame-Chair/`
 
+* **Loft Sweep Shell Pipe Fitting**
+  * **Description:** Hollow pipe fitting modeled using LOFT, SWEEP, and SHELL operations.
+  * **Folder:** `Day44-Loft-Sweep-Shell-Pipe-Fitting/`
+
 ---
 
 ## 🛠️ Skills Covered
